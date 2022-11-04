@@ -1,22 +1,4 @@
 {
-  "Apps": [
-  {
-      "appName": "Minecraft",
-      "appVerision": 1.70.2,
-      "appSize": 30,
-	  "appBanner": null,
-      "appIcon": null,
-	  "appStatement": "Creates A lort",
-	  "appAuthor": "Mojang",
-	  "appDownloads": 500,
-	  "appUse": "Open World Game",
-	  "appVerisionStatement": "New feature sheep",
-      "downloadUrl": "https://harihar.ga",
-      "type": "mod",
-      "rating": "general",
-      "id": 1
-    },
-  ],
   "users": [
     {
       "email": "test",
@@ -51,8 +33,5 @@
       "color": "#331189",
       "id": 3
     }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  ]
 }
