@@ -1,37 +1,11 @@
 {
-  "users": [
+  "posts": [
     {
-      "email": "test",
-      "firstName": "test",
-      "lastName": "test",
-      "password": "333",
-      "balance": 0,
-      "membership": "general",
-      "power": "normal",
-      "color": "#810799",
-      "id": 1
-    },
-    {
-      "email": "harihar@gmail.com",
-      "firstName": "harihar",
-      "lastName": "Nautiyal",
-      "password": "333",
-      "balance": 200,
-      "membership": "general",
-      "power": "normal",
-      "color": "#000000",
-      "id": 2
-    },
-    {
-      "email": "hariharcreations3@gmail.com",
-      "firstName": "harihar",
-      "lastName": "nautiyual",
-      "password": "9997275028",
-      "balance": 0,
-      "membership": "general",
-      "power": "normal",
-      "color": "#331189",
-      "id": 3
+      "id": 1,
+      "title": "hello"
     }
-  ]
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
