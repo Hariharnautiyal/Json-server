@@ -1,5 +1,40 @@
 {
-  "users": [],
+  "users": [
+  {
+      "email": "sdsd",
+      "firstName": "hariga",
+      "lastName": "sdsd",
+      "password": "sdsd",
+      "balance": 0,
+      "membership": "normal",
+      "power": "none",
+      "color": "#169714",
+      "login": true,
+      "date": "\"2022-12-25T12:00:56.042Z\"",
+      "data": "Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:109.0) Gecko/20100101 Firefox/109.0",
+      "platform": "Win32",
+      "online": true,
+      "appName": "Netscape",
+      "id": 1
+    },
+    {
+      "email": "harihar@gmail.com",
+      "firstName": "Harihar",
+      "lastName": "Nautiyal",
+      "password": "9997275028",
+      "balance": 0,
+      "membership": "normal",
+      "power": "none",
+      "color": "#551710",
+      "login": true,
+      "date": "\"2022-12-25T14:58:07.770Z\"",
+      "data": "Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:109.0) Gecko/20100101 Firefox/109.0",
+      "platform": "Win32",
+      "online": false,
+      "appName": "Netscape",
+      "id": 2
+    }
+  ],
   "profile": {
     "name": "typicode"
   }
